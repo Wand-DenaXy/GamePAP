@@ -1,0 +1,134 @@
+19:24:00:302 [25096] | INFO  | Initializing crosire's ReShade version '6.1.1.1848' (64-bit) loaded from "D:\Pap\Jogo\Jogo3\dxgi.dll" into "D:\Pap\Jogo\Jogo3\PAP Stealth.exe" (0x6bfaf2f1) ...
+19:24:00:302 [25096] | INFO  | Registering hooks for "user32.dll" ...
+19:24:00:303 [25096] | INFO  | > Libraries loaded.
+19:24:00:303 [25096] | INFO  | > Found 14 match(es). Installing ...
+19:24:00:338 [25096] | INFO  | Registering hooks for "C:\WINDOWS\system32\dinput.dll" ...
+19:24:00:339 [25096] | INFO  | > Delayed.
+19:24:00:339 [25096] | INFO  | Registering hooks for "ws2_32.dll" ...
+19:24:00:339 [25096] | INFO  | > Libraries loaded.
+19:24:00:340 [25096] | INFO  | > Found 8 match(es). Installing ...
+19:24:00:373 [25096] | INFO  | Registering hooks for "C:\WINDOWS\system32\d2d1.dll" ...
+19:24:00:374 [25096] | INFO  | > Delayed.
+19:24:00:374 [25096] | INFO  | Registering hooks for "C:\WINDOWS\system32\d3d9.dll" ...
+19:24:00:374 [25096] | INFO  | > Delayed.
+19:24:00:374 [25096] | INFO  | Registering hooks for "C:\WINDOWS\system32\d3d10.dll" ...
+19:24:00:375 [25096] | INFO  | > Delayed.
+19:24:00:375 [25096] | INFO  | Registering hooks for "C:\WINDOWS\system32\d3d10_1.dll" ...
+19:24:00:376 [25096] | INFO  | > Delayed.
+19:24:00:376 [25096] | INFO  | Registering hooks for "C:\WINDOWS\system32\d3d11.dll" ...
+19:24:00:376 [25096] | INFO  | > Libraries loaded.
+19:24:00:376 [25096] | INFO  | > Found 3 match(es). Installing ...
+19:24:00:410 [25096] | INFO  | Registering hooks for "C:\WINDOWS\system32\d3d12.dll" ...
+19:24:00:410 [25096] | INFO  | > Delayed.
+19:24:00:411 [25096] | INFO  | Registering hooks for "C:\WINDOWS\system32\dxgi.dll" ...
+19:24:00:411 [25096] | INFO  | > Delayed until first call to an exported function.
+19:24:00:411 [25096] | INFO  | Registering hooks for "vrclient_x64.dll" ...
+19:24:00:411 [25096] | INFO  | > Delayed.
+19:24:00:412 [25096] | INFO  | Initialized.
+19:24:00:416 [25096] | INFO  | Redirecting CreateDXGIFactory2(Flags = 0, riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 00007FF9A7E8F1D0) ...
+19:24:00:417 [25096] | INFO  | Installing export hooks for "C:\WINDOWS\system32\dxgi.dll" ...
+19:24:00:417 [25096] | INFO  | > Found 5 match(es). Installing ...
+19:24:00:422 [25096] | INFO  | Redirecting D3D11CreateDevice(pAdapter = 0000027903F46870, DriverType = 0, Software = 0000000000000000, Flags = 0x20, pFeatureLevels = 0000027800016CA0, FeatureLevels = 4, SDKVersion = 7, ppDevice = 00007FF9A7E8EDA8, pFeatureLevel = 00007FF9A7DA27A4, ppImmediateContext = 00007FF9A7E8F1B8) ...
+19:24:00:423 [25096] | INFO  | > Passing on to D3D11CreateDeviceAndSwapChain:
+19:24:00:423 [25096] | INFO  | Redirecting D3D11CreateDeviceAndSwapChain(pAdapter = 0000027903F46870, DriverType = 0, Software = 0000000000000000, Flags = 0x20, pFeatureLevels = 0000027800016CA0, FeatureLevels = 4, SDKVersion = 7, pSwapChainDesc = 0000000000000000, ppSwapChain = 0000000000000000, ppDevice = 00007FF9A7E8EDA8, pFeatureLevel = 00007FF9A7DA27A4, ppImmediateContext = 00007FF9A7E8F1B8) ...
+19:24:00:526 [25096] | INFO  | Using feature level 0xb100.
+19:24:00:527 [25096] | INFO  | Searching for add-ons (*.addon, *.addon64) in "D:\Pap\Jogo\Jogo3" ...
+19:24:00:530 [25096] | INFO  | Redirecting CreateDXGIFactory1(riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 000000E90272E4D8) ...
+19:24:05:386 [25096] | INFO  | Redirecting D3D11CreateDevice(pAdapter = 0000027903F46870, DriverType = 0, Software = 0000000000000000, Flags = 0x820, pFeatureLevels = 0000000000000000, FeatureLevels = 0, SDKVersion = 7, ppDevice = 00007FF9A7E96860, pFeatureLevel = 0000000000000000, ppImmediateContext = 00007FF9A7E96868) ...
+19:24:05:386 [25096] | INFO  | > Passing on to D3D11CreateDeviceAndSwapChain:
+19:24:05:386 [25096] | INFO  | Redirecting D3D11CreateDeviceAndSwapChain(pAdapter = 0000027903F46870, DriverType = 0, Software = 0000000000000000, Flags = 0x820, pFeatureLevels = 0000000000000000, FeatureLevels = 0, SDKVersion = 7, pSwapChainDesc = 0000000000000000, ppSwapChain = 0000000000000000, ppDevice = 00007FF9A7E96860, pFeatureLevel = 0000000000000000, ppImmediateContext = 00007FF9A7E96868) ...
+19:24:05:403 [25096] | INFO  | Using feature level 0xb000.
+19:24:05:531 [25096] | INFO  | Redirecting CreateDXGIFactory1(riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 000000E90272E548) ...
+19:24:05:535 [25096] | INFO  | Redirecting IDXGIFactory2::CreateSwapChainForHwnd(this = 0000027903F32990, pDevice = 0000027944DDE1D8, hWnd = 0000000000250992, pDesc = 000000E90272E5F0, pFullscreenDesc = 000000E90272E5D8, pRestrictToOutput = 0000000000000000, ppSwapChain = 000000E90272E690) ...
+19:24:05:535 [25096] | INFO  | > Dumping swap chain description:
+19:24:05:536 [25096] | INFO  |   +-----------------------------------------+-----------------------------------------+
+19:24:05:536 [25096] | INFO  |   | Parameter                               | Value                                   |
+19:24:05:536 [25096] | INFO  |   +-----------------------------------------+-----------------------------------------+
+19:24:05:537 [25096] | INFO  |   | Width                                   | 1920                                    |
+19:24:05:537 [25096] | INFO  |   | Height                                  | 1080                                    |
+19:24:05:537 [25096] | INFO  |   | RefreshRate                             | 0                   1                   |
+19:24:05:537 [25096] | INFO  |   | Format                                  | DXGI_FORMAT_R8G8B8A8_UNORM              |
+19:24:05:538 [25096] | INFO  |   | Stereo                                  | FALSE                                   |
+19:24:05:538 [25096] | INFO  |   | ScanlineOrdering                        | 0                                       |
+19:24:05:538 [25096] | INFO  |   | Scaling                                 | 0                                       |
+19:24:05:539 [25096] | INFO  |   | SampleCount                             | 1                                       |
+19:24:05:539 [25096] | INFO  |   | SampleQuality                           | 0                                       |
+19:24:05:539 [25096] | INFO  |   | BufferUsage                             | 0x30                                    |
+19:24:05:539 [25096] | INFO  |   | BufferCount                             | 2                                       |
+19:24:05:540 [25096] | INFO  |   | Windowed                                | TRUE                                    |
+19:24:05:540 [25096] | INFO  |   | SwapEffect                              | 3                                       |
+19:24:05:542 [25096] | INFO  |   | AlphaMode                               | 0                                       |
+19:24:05:542 [25096] | INFO  |   | Flags                                   | 0x842                                   |
+19:24:05:543 [25096] | INFO  |   +-----------------------------------------+-----------------------------------------+
+19:24:05:566 [25096] | INFO  | Running on NVIDIA GeForce GTX 1660 SUPER Driver 566.36.
+19:24:06:163 [25096] | INFO  | Recreated runtime environment on runtime 000002798D45CF00 ("D:\Pap\Jogo\Jogo3\ReShade.ini").
+19:24:06:166 [25096] | INFO  | Redirecting IDXGISwapChain::ResizeBuffers(this = 000002798D445310, BufferCount = 2, Width = 1920, Height = 1080, NewFormat = 28, SwapChainFlags = 0x842) ...
+19:24:06:167 [25096] | INFO  | Destroyed runtime environment on runtime 000002798D45CF00 ("D:\Pap\Jogo\Jogo3\ReShade.ini").
+19:24:06:171 [25096] | INFO  | Recreated runtime environment on runtime 000002798D45CF00 ("D:\Pap\Jogo\Jogo3\ReShade.ini").
+19:24:08:371 [18756] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\ChromaticAberration.fx" in 0.138 s.
+19:24:08:372 [08900] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Border.fx" in 0.139 s.
+19:24:08:372 [07020] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Sepia.fx" in 0.138 s.
+19:24:08:374 [27212] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\NightVision.fx" in 0.141 s.
+19:24:08:377 [19380] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Technicolor.fx" in 0.144 s.
+19:24:08:379 [12776] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\UIMask.fx" in 0.146 s.
+19:24:08:384 [16288] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\FakeHDR.fx" in 0.152 s.
+19:24:08:390 [19576] | WARN  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\LevelsPlus.fx" in 0.157 s with warnings:
+D:\Pap\Jogo\Jogo3\Shader@0x000002798DDF61E0(203,17-37): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+19:24:08:392 [02980] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\LumaSharpen.fx" in 0.158 s.
+19:24:08:407 [24616] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\HQ4X.fx" in 0.174 s.
+19:24:08:414 [24996] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Curves.fx" in 0.181 s.
+19:24:08:445 [18756] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\ColorMatrix.fx" in 0.017 s.
+19:24:08:460 [24716] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\FilmGrain2.fx" in 0.228 s.
+19:24:08:473 [20324] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\GaussianBlur.fx" in 0.241 s.
+19:24:08:561 [06848] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\AdaptiveSharpen.fx" in 0.329 s.
+19:24:08:607 [08900] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Cartoon.fx" in 0.175 s.
+19:24:08:607 [19380] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Technicolor2.fx" in 0.022 s.
+19:24:08:616 [12776] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Vibrance.fx" in 0.031 s.
+19:24:08:628 [02980] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\LUT.fx" in 0.04 s.
+19:24:08:616 [19576] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\LiftGammaGain.fx" in 0.029 s.
+19:24:08:634 [24996] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Daltonize.fx" in 0.045 s.
+19:24:08:645 [18756] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Colourfulness.fx" in 0.055 s.
+19:24:08:664 [08900] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\CAS.fx" in 0.051 s.
+19:24:08:680 [19380] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Tonemap.fx" in 0.057 s.
+19:24:08:682 [24716] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\FilmicPass.fx" in 0.093 s.
+19:24:08:697 [24616] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\HSLShift.fx" in 0.109 s.
+19:24:08:698 [12776] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Vignette.fx" in 0.072 s.
+19:24:08:719 [20324] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Glitch.fx" in 0.121 s.
+19:24:08:726 [23716] | WARN  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Denoise.fx" in 0.493 s with warnings:
+D:\Pap\Jogo\Jogo3\Shader@0x00000279FF9D80E0(174,24-86): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+
+19:24:08:729 [24616] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Layer.fx" in 0.03 s.
+19:24:08:739 [24996] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Deband.fx" in 0.097 s.
+19:24:08:755 [24616] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Levels.fx" in 0.026 s.
+19:24:08:765 [16288] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\FakeMotionBlur.fx" in 0.178 s.
+19:24:08:769 [27212] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Nostalgia.fx" in 0.185 s.
+19:24:08:791 [16288] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\FilmGrain.fx" in 0.026 s.
+19:24:08:809 [23716] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\DisplayDepth.fx" in 0.082 s.
+19:24:08:848 [02980] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\MagicBloom.fx" in 0.208 s.
+19:24:08:859 [20324] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\HighPassSharpen.fx" in 0.138 s.
+19:24:08:874 [24716] | WARN  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\FineSharp.fx" in 0.183 s with warnings:
+D:\Pap\Jogo\Jogo3\Shader@0x00000279FFC44260(574,15-29): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+19:24:08:876 [02980] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Monochrome.fx" in 0.027 s.
+19:24:08:882 [27212] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\ReflectiveBumpMapping.fx" in 0.112 s.
+19:24:08:921 [18756] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\CRT.fx" in 0.275 s.
+19:24:08:948 [06848] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\AmbientLight.fx" in 0.343 s.
+19:24:08:989 [07020] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\SMAA.fx" in 0.406 s.
+19:24:08:989 [24716] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\FXAA.fx" in 0.109 s.
+19:24:09:007 [06848] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\ASCII.fx" in 0.058 s.
+19:24:09:018 [07020] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Splitscreen.fx" in 0.028 s.
+19:24:09:224 [06848] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\Bloom.fx" in 0.216 s.
+19:24:09:307 [19576] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\LightDoF.fx" in 0.666 s.
+19:24:09:356 [23716] | WARN  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\DOF.fx" in 0.545 s with warnings:
+D:\Pap\Jogo\Jogo3\Shader@0x00000279FFF91C20(346,17-33): warning X3556: integer divides may be much slower, try using uints if possible.
+D:\Pap\Jogo\Jogo3\Shader@0x00000279FFF91C20(638,16-49): warning X3556: integer modulus may be much slower, try using uints if possible.
+
+19:24:09:382 [23716] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\DPX.fx" in 0.02 s.
+19:24:09:411 [07020] | INFO  | Successfully compiled "D:\Pap\Jogo\Jogo3\reshade-shaders\Shaders\SurfaceBlur.fx" in 0.392 s.
+19:24:46:981 [16812] | INFO  | Redirecting CreateDXGIFactory1(riid = {1BC6EA02-EF36-464F-BF0C-21CA39E5168A}, ppFactory = 000000E904DFDF28) ...
+19:24:46:994 [16812] | INFO  | Redirecting CreateDXGIFactory1(riid = {1BC6EA02-EF36-464F-BF0C-21CA39E5168A}, ppFactory = 000000E904DFDF28) ...
+19:24:47:059 [16812] | INFO  | Redirecting CreateDXGIFactory1(riid = {1BC6EA02-EF36-464F-BF0C-21CA39E5168A}, ppFactory = 000000E904DFDD58) ...
+19:24:47:063 [16812] | INFO  | Redirecting CreateDXGIFactory1(riid = {1BC6EA02-EF36-464F-BF0C-21CA39E5168A}, ppFactory = 000000E904DFDE18) ...
+19:24:47:170 [21080] | INFO  | Redirecting CreateDXGIFactory2(Flags = 0, riid = {A4966EED-76DB-44DA-84C1-EE9A7AFB20A8}, ppFactory = 000000E90688E130) ...
+19:28:50:856 [25096] | INFO  | Destroyed runtime environment on runtime 000002798D45CF00 ("D:\Pap\Jogo\Jogo3\ReShade.ini").
