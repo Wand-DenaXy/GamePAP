@@ -5,10 +5,9 @@ It's a demo game I made as a final project for my course. There may be problems,
 
 
 
+- Map Game
 
-
-
-https://github.com/user-attachments/assets/5ed3d6b0-fd8d-4c70-bbff-acce3da968e0
+https://github.com/user-attachments/assets/82694b99-9a6b-425f-b0ca-2ceec38f9619
 
 
 
